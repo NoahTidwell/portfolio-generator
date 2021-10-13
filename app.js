@@ -85,6 +85,7 @@ promptUser()
   });
 
 
+
 // const fs = require('fs');
 // const generatePage = require('./src/page-template.js');
 
@@ -95,3 +96,4 @@ promptUser()
 
   // console.log('Portfolio complete! Check out index.html to see the output!');
 // });
+
